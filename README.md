@@ -25,3 +25,6 @@ jeje bla bla...
 
 ![](http://cosas.com/wp-content/uploads/2016/06/img-cosas-defalut.png)
 
+## Otra sección
+
+Esto es otro cambio.
