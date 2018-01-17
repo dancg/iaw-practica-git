@@ -28,3 +28,7 @@ jeje bla bla...
 ## Otra sección
 
 Esto es otro cambio.
+
+##Otra nueva sección
+
+Estoy haciendo otro cambio para aprender un poco más de git
